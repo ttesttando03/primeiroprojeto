@@ -1,1 +1,0 @@
-print('programa teste git.')
